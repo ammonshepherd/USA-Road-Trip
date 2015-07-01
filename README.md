@@ -1,25 +1,25 @@
 ![alt tag](USA-map-highlight.jpg)
 # States We Traveled Through (in order of travel)
-- Virginia
-- Tennessee
-- Arkansas
-- Oklahoma
-- Texas
-- New Mexico
-- Arizona
-- Utah
-- Idaho
-- Wyoming
-- South Dakota
-- North Dakota
-- Minnesota
-- Wisconsin
-- Illinois
-- Indiana
-- Michigan
-- Ohio
-- Pennsylvania
-- Maryland
+1. Virginia
+1. Tennessee
+1. Arkansas
+1. Oklahoma
+1. Texas
+1. New Mexico
+1. Arizona
+1. Utah
+1. Idaho
+1. Wyoming
+1. South Dakota
+1. North Dakota
+1. Minnesota
+1. Wisconsin
+1. Illinois
+1. Indiana
+1. Michigan
+1. Ohio
+1. Pennsylvania
+1. Maryland
 
 # Resources for Booklet:
 - USA Map: http://www.freeusandworldmaps.com/html/USAandCanada/USPrintable.html
