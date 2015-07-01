@@ -1,3 +1,4 @@
+![alt tag](USAmap.jpg)
 # States We Traveled Through (in order of travel)
 - Virginia
 - Tennessee
