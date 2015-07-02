@@ -41,6 +41,13 @@
     ```
   - The generated file will be at `path/to/Your-File-IMPOSED.pdf`
 
+# Printing tips
+
+- Printing the PDF from Mac's Preview App: 
+  - It's easiest if your printer can print Two-Sided, if so, select that option.
+  - For the Orientation, select "Landscape"
+  - In the Layout setting, select "Short-Edge Binding"
+  - You can test that the settings are correct by printing just the first two pages.
 
 # License
 
