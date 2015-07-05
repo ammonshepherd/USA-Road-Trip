@@ -28,6 +28,23 @@
 - License Plates: http://www.15q.net/curr.html
 - State quizzes and maps: http://www.enchantedlearning.com/usa/statesbw/
 - Booklet Maker: https://github.com/roberto-arista/Python-Print-Booklet
+- Yellowstone Map: http://www.theydrawandtravel.com/maps/yellowstone-national-park-wyoming-kate-rochester
+- Animals
+  - eagle: https://www.pinterest.com/pin/100275529180232350/
+  - buffalo: http://101coloringpages.com/b/buffalo-coloring-pages/
+  - horse: http://www.freestockphotos.biz/stockphoto/11453
+  - big horn: http://www.usbr.gov/lc/hooverdam/educate/edpack2.html
+  - cows: http://www.jc-solarhomes.com/GREEN/green%20living/green_living_tips.htm
+  - tarantula: http://www.desertmuseum.org/books/nhsd_scorpions.html
+  - frog: http://www.desertmuseum.org/books/nhsd_bufo.php
+  - wolf: http://momsinamerica.com/color/wolf-coloring-pages-to-print/
+  - deer: `https://commons.wikimedia.org/wiki/File:Deer_1_(PSF).png`
+- Mazes
+  - Illinois: http://www.imaginaryanimal.com/products/illinois-state-maze
+  - Michigan: http://www.imaginaryanimal.com/products/michigan-state-maze-offset-print
+  - New Mexico, Ohio: http://vikiwoodworth.blogspot.com/2009/05/united-states-maze-craze.html
+  - North America: http://bicycletouringpro.com/blog/north-america-maze-free-download/
+
 
 # Notes for creating the booklet
 
