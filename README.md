@@ -9,6 +9,7 @@
 1. Arizona
 1. Utah
 1. Idaho
+1. **Montana** *
 1. Wyoming
 1. South Dakota
 1. North Dakota
@@ -19,7 +20,11 @@
 1. Michigan
 1. Ohio
 1. Pennsylvania
+1. **West Virginia** *
 1. Maryland
+
+
+* We did not originally plan on driving through these states, but ended up cutting across parts of them.
 
 # Resources for Booklet:
 - USA Map: http://www.freeusandworldmaps.com/html/USAandCanada/USPrintable.html
@@ -38,7 +43,7 @@
   - tarantula: http://www.desertmuseum.org/books/nhsd_scorpions.html
   - frog: http://www.desertmuseum.org/books/nhsd_bufo.php
   - wolf: http://momsinamerica.com/color/wolf-coloring-pages-to-print/
-  - deer: `https://commons.wikimedia.org/wiki/File:Deer_1_(PSF).png`
+  - deer: https://commons.wikimedia.org/wiki/File:Deer_1_(PSF).png
 - Mazes
   - Illinois: http://www.imaginaryanimal.com/products/illinois-state-maze
   - Michigan: http://www.imaginaryanimal.com/products/michigan-state-maze-offset-print
@@ -65,6 +70,8 @@
   - For the Orientation, select "Landscape"
   - In the Layout setting, select "Short-Edge Binding"
   - You can test that the settings are correct by printing just the first two pages.
+
+- The easiest, but less "hacker" way, is to take the PDF, with each page in order and on a single page, to a printing place where they can print it out as a booklet and staple it for you.
 
 # License
 
